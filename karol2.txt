@@ -1,3 +1,8 @@
 kkkkkk
+<<<<<<< HEAD
 sssss
 
+=======
+
+tekst dodoany przez arka
+>>>>>>> 6eec68f40f7331df012e8e3335290f956fe36653
